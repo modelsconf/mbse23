@@ -21,7 +21,7 @@ We invite submissions related to the application of SysML in modeling systems an
 * Best practices for implementing MBSE in different domains (e.g., aerospace, automotive, defense, etc.) 
   - Experience reports on the benefits and challenges of using MBSE in different domains
 * Tooling and automation for MBSE
-* Machine learning and Artificial Intelligence (ML/AI) technologies
+* Machine learning and Artificial Intelligence (ML/AI) technologies in systems modeling
 * Model-based systems engineering process improvement, including:
   - Data-driven optimization of simulated product development processes using machine learning and analytics 
   - Notations and languages for CI/CD process simulation and testing 
