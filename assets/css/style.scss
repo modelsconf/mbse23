@@ -1,25 +1,8 @@
 ---
 ---
 
-@import "{{ site.theme }}";
+@import 'jekyll-theme-hacker';
+
  
-a {
-  background-color: blue;
-  box-shadow: 0 5px 0 darkred;
-  color: white;
-  padding: 0.36em 0.65em;
-  position: relative;
-  text-decoration: none;
-  text-transform: uppercase;
-}
-
-a:hover {
-  background-color: #ce0606;
-}
-
-a:active {
-  box-shadow: none;
-  top: 5px;
-}
 
 
