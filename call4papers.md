@@ -40,6 +40,15 @@ The papers must follow the same style and format as the main tracks of the Confe
   - Tue 22 Aug 2023: Camera-ready deadline
   - Sun 1 Oct - Tue 3 Oct 2023: Workshop dates
 
+
+### Workshop Organizers:
+- Reza Ahmadi (ETS, Canada)
+- Francis Bordeleau (ETS, Canada)
+- Jean-Michel Bruel (University of Toulouse, France)
+- Juergen Dingel (Queen's University, Canada)
+- Sébastien Mosser (McMaster University, Canada)
+
+
 For more information and updates, please visit the workshop website: [https://sysmdecnf.github.io/mde2023/](https://sysmdecnf.github.io/mde2023/)
 
 Contact:
