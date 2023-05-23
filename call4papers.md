@@ -13,7 +13,7 @@ The 1st Workshop on MBSE aims to bring together researchers and practitioners fr
 We invite submissions related to the application of SysML in modeling systems and its impact on system development and engineering processes. Topics of interest include, but are not limited to:
 
 - Best practices for implementing MBSE in different domains (e.g., aerospace, automotive, defense, etc.) 
-        + Experience reports on the benefits and challenges of using MBSE in different domains
+        - Experience reports on the benefits and challenges of using MBSE in different domains
 - Tooling and automation for MBSE
 - Machine learning and Artificial Intelligence (ML/AI) technologies in systems modeling
 - Model-based systems engineering process improvement, including:
