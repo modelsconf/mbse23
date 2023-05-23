@@ -30,10 +30,12 @@
 
 ul {
   list-style-type: circle;
+  list-style-image: none !important;
 }
 
 
 li {
-  list-style-type: upper-roman;
+  list-style-type: lower-roman;
+  list-style-image: none !important;
 }
 
