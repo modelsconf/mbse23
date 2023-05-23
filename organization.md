@@ -13,7 +13,7 @@
 * Eric Bonjour
 * Holger Giese
 * Hugo Bruneliere
-* Joachim denil
+* Joachim Denil
 * Luca Berardinelli
 * Manuel Wimmer
 * Matthew R. Bunting
