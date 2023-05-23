@@ -12,12 +12,12 @@
 * Bernhard Rumpe
 * Eric Bonjour
 * Holger Giese
-* hugo bruneliere
-* joachim denil
+* Hugo Bruneliere
+* Joachim denil
 * Luca Berardinelli
 * Manuel Wimmer
-* Matthew r bunting
-* maximilian vierlboeck
-* Robert G Pettit
+* Matthew R. Bunting
+* Maximilian Vierlboeck
+* Robert G. Pettit
 * Ed Seidewitz
 * Sebastian Voss
