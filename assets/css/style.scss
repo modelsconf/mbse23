@@ -28,14 +28,10 @@
 
 }
 
-ul {
-  list-style-type: circle;
-  list-style-image: none !important;
-}
 
 
 li {
-  list-style-type: lower-roman;
-  list-style-image: none !important;
+  list-style-type: circle;
+  list-style-image: url("https://interactive-examples.mdn.mozilla.net/media/examples/rocket.svg") !important;
 }
 
