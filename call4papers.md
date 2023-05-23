@@ -13,12 +13,12 @@ The 1st Workshop on MBSE aims to bring together researchers and practitioners fr
 We invite submissions related to the application of SysML in modeling systems and its impact on system development and engineering processes. Topics of interest include, but are not limited to:
 
 - Best practices for implementing MBSE in different domains (e.g., aerospace, automotive, defense, etc.) 
-    + 1. Experience reports on the benefits and challenges of using MBSE in different domains
+        + Experience reports on the benefits and challenges of using MBSE in different domains
 - Tooling and automation for MBSE
 - Machine learning and Artificial Intelligence (ML/AI) technologies in systems modeling
 - Model-based systems engineering process improvement, including:
-    + 1. Data-driven optimization of simulated product development processes using machine learning and analytics 
-    + 2. Notations and languages for CI/CD process simulation and testing 
+        + Data-driven optimization of simulated product development processes using machine learning and analytics 
+        + Notations and languages for CI/CD process simulation and testing 
 - MBSE for system validation and verification
 
 
@@ -27,9 +27,9 @@ Submissions must adhere to the IEEE formatting instructions, for which An Overle
 - Short papers: 5 pages  
 - Full papers: 10 pages 
 - Extended abstracts
-    + 1. Work in Progress: Submit an extended abstract detailing your ongoing research, experiments, or projects related to MBSE. 
-    + 2. Position/Vision Statements: Share your perspectives, insights, and visions regarding MBSE practices, methodologies, or emerging trends. 
-    + 3. Tool Demos: Present a practical demonstration of a tool, framework, or solution that contributes to the field of MBSE.
+        + Work in Progress: Submit an extended abstract detailing your ongoing research, experiments, or projects related to MBSE. 
+        + Position/Vision Statements: Share your perspectives, insights, and visions regarding MBSE practices, methodologies, or emerging trends. 
+        + Tool Demos: Present a practical demonstration of a tool, framework, or solution that contributes to the field of MBSE.
 
 The papers must follow the same style and format as the main tracks of the Conference. Submit your workshop proposal electronically in PDF using the MODELS EasyChair submission site [our easychair link here?]. All submissions will undergo a peer-review process by the program committee. Submissions that do not adhere to the formatting instructions may be desk-rejected without review.
 
