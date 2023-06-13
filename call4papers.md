@@ -32,6 +32,7 @@ Submissions must adhere to the IEEE formatting instructions, for which An Overle
      + Tool Demos: Present a practical demonstration of a tool, framework, or solution that contributes to the field of MBSE.
 
 The papers must follow the same style and format as the main tracks of the Conference. Submit your workshop proposal electronically in PDF using the EasyChair submission site [https://easychair.org/conferences/?conf=mbse23](https://easychair.org/conferences/?conf=mbse23). All submissions will undergo a peer-review process by the program committee. Submissions that do not adhere to the formatting instructions may be desk-rejected without review.
+
 Accepted short and full papers will be included in the workshop proceedings. For accepted abstract contributions, inclusion of a joint description will be considered.
 
 ### Important Dates
