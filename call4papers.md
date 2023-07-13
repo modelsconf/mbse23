@@ -36,7 +36,7 @@ The papers must follow the same style and format as the main tracks of the Confe
 Accepted short and full papers will be included in the workshop proceedings. For accepted abstract contributions, inclusion of a joint description will be considered.
 
 ### Important Dates
-  - Mo 17 July 2023: Submission deadline
+  - ~~Mo 17 July 2023~~ Wed 19 July 2023: Submission deadline
   - Tue 15 Aug 2023: Notification of authors
   - Tue 22 Aug 2023: Camera-ready deadline
   - Sun 1 Oct - Tue 3 Oct 2023: Workshop dates
