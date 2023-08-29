@@ -1,4 +1,4 @@
-October 1, 2, or 3, 2023 (tba)
+October 2nd, 2023
 Västerås, Sweden
 
 
