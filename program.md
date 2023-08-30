@@ -1,6 +1,6 @@
 ### 08:30 - 10:00: Welcome & keynote
    - Introduction (15')
-   - Ed’s keynote (45')
+   - Keynote by Ed Seidewitz (45')
    - Questions and discussion (30')
 
 ### 10:30 - 12:00: Tooling
