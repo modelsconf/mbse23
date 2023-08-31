@@ -8,16 +8,17 @@
 
 
 ## Program Committee
-* Alessio Bucaioni
-* Bernhard Rumpe
-* Eric Bonjour
-* Holger Giese
-* Hugo Bruneliere
-* Joachim Denil
-* Luca Berardinelli
-* Manuel Wimmer
-* Matthew R. Bunting
-* Maximilian Vierlboeck
-* Robert G. Pettit
-* Ed Seidewitz
-* Sebastian Voss
+* Alessio Bucaioni, Mälardalen University, Sweden
+* Bernhard Rumpe, Aachen University, Germany
+* Eric Bonjour, University Of Lorraine, France
+* Hugo Bruneliere, IMT Atlantique, France
+* Joachim Denil, University of Antwerp, Belgium
+* Luca Berardinelli, University of Linz, Austria
+* Manuel Wimmer, TU Wien, Austria
+* Matthew R Bunting, Vanderbilt University, USA
+* Maximilian Vierlboeck, JPL, USA
+* Robert G Pettit, George Mason University, USA
+* Ed Seidewitz, Model Driven Solutions, USA
+* Holger Giese, Universität Potsdam, Germany
+* Sebastian Voss, Aachen University of Applied Sciences, Germany
+
