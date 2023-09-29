@@ -1,5 +1,6 @@
 ## Why Agile Systems Engineering Must Be Model Based, and Model-Based Systems Engineering Must Be Agile
-Abstract: tba
+#### Abstract: 
+MBSE is the “formalized application of modeling” throughout the systems engineering life cycle. But why do we do it? Because modeling allows us to externalize knowledge, so we can better manage our response to the inevitable changes in requirements, design and implementation that happen during any engineering effort. And agility is exactly “the ability to create and respond to change” in an uncertain and turbulent environment. MBSE makes it possible to apply risk-reducing agile techniques to systems engineering, and agility makes MBSE effective for successful system engineering. That is the answer to the question posed in the title of this talk. (But come to the talk for the deatils!)
 
-## Ed Seidewitz
+#### Ed Seidewitz
 Ed Seidewitz is Chief Technology Officer at Model Driven Solutions, Inc., a long-time provider of enterprise and systems architecture services using model-based methods. Mr. Seidewitz is experienced in agile system architecture and development in both the commercial and government sectors. Mr. Seidewitz has been active with the Object Management Group (OMG) for over 20 years, involved in the standardization of the Unified Modeling Language (UML), Systems Modeling Language (SysML) and various Executable UML specifications. He was co-lead of the SysML v2 Submission Team, which recently submitted specifications for the second version of SysML, and is now co-chair of the SysML v2 Finalization Task Force.
